@@ -1,0 +1,23 @@
+{
+  "downloaded_at_utc": "2026-11-15T16:29:28.376798+00:00",
+  "source": "Yahoo chart + US Treasury daily par yield curve",
+  "price_start": "2010-01-04",
+  "price_end": "2026-11-13",
+  "yield_start": "2010-01-04",
+  "yield_end": "2026-11-13",
+  "n_prices": 16972,
+  "n_yield_rows": 4220,
+  "symbols": [
+    "DJI",
+    "NDX",
+    "RUT",
+    "SPX"
+  ],
+  "tenors": [
+    "y3m",
+    "y2",
+    "y5",
+    "y10",
+    "y30"
+  ]
+}
